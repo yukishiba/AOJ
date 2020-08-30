@@ -15,7 +15,6 @@ void pop_number(vector<int>& A, int& y, int& z) {
 
 int main() {
   vector<int> A;
-  int x;
   int y;
   int z;
   string temp;
